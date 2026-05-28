@@ -71,8 +71,6 @@
     margin-bottom: 0.3rem;
   }
 
-  .profile_name_last { color: var(--accent); }
-
   .profile_title {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 0.8rem;
