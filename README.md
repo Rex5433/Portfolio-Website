@@ -4,4 +4,5 @@ A quick html &amp; css website to host my portfolio and links to socials for job
 HyperLink: [Here](tthomcore.com)
 
 Full Link: tthomcore.com
+
 Github Pages Link: https://rex5433.github.io/Portfolio-Website/
